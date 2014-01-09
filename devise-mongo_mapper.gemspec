@@ -1,11 +1,11 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
-  s.name          = 'devise-mongo_mapper'
-  s.version       = '0.0.2'
+  s.name          = 'moxie-devise-mongo_mapper'
+  s.version       = '0.0.2.1'
   s.platform      = Gem::Platform::RUBY
-  s.authors       = ['Brandon Keepers']
-  s.email         = ['brandon@collectiveidea.com']
-  s.homepage      = "http://github.com/collectiveidea/devise-mongo_mapper"
+  s.authors       = ['Brandon Keepers', "Jonathan Bell"]
+  s.email         = ['brandon@collectiveidea.com', "jbell@moxiesoft.com"]
+  s.homepage      = "http://github.com/moxiespaces/devise-mongo_mapper"
   s.summary       = "MongoMapper ORM for devise"
   s.files         = Dir.glob('lib/**/*') + ['README.md']
   s.require_path  = 'lib'
