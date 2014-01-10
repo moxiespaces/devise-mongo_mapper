@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name          = 'moxie-devise-mongo_mapper'
-  s.version       = '0.0.2.2'
+  s.version       = '0.0.2.3'
   s.platform      = Gem::Platform::RUBY
   s.authors       = ['Brandon Keepers', "Jonathan Bell"]
   s.email         = ['brandon@collectiveidea.com', "jbell@moxiesoft.com"]
